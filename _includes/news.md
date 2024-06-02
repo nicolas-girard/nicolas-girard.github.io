@@ -1,4 +1,4 @@
-<h1 id="news"></h1>
+<!--<h1 id="news"></h1>
 
 <h2 style="margin: 60px 0px 10px;">News</h2>
 
@@ -35,4 +35,4 @@
   <li><strong>[Mar. 2019]</strong> Our paper about <a href="https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf">few-shot learning</a> is accepted to <a href="http://cvpr2019.thecvf.com/">CVPR 2019</a>.</li>
 </div>
 
-</ul>
+</ul>-->
