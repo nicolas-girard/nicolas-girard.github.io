@@ -8,4 +8,4 @@
 <br />
 <strong>Email:</strong> <email>nicolas.girard1@minesparis.psl.eu</email>
 <br />
-<strong>Phone:</strong>01 64 69 47 82</p>
+<strong>Phone:</strong> 01 64 69 47 82</p>
