@@ -16,4 +16,4 @@ Disallow: /.github/
 Disallow: /git-update.sh
 Disallow: /README.md
 
-Sitemap: https://https://www.minesparis.psl.eu/~nicolasgirard/sitemap.xml
+Sitemap: https://https://nicolas-girard.github.io/sitemap.xml
