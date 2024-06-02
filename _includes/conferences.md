@@ -1,6 +1,6 @@
 <h1 id="conferences"></h1>
 
-<h2 style="margin: 60px 0px 10px;">conferences</h2>
+<h2 style="margin: 60px 0px 10px;">Conferences</h2>
 
 
 <!--<h4 style="margin:0 10px 0;">Learning from Imperfect Data: Incremental Learning and Few-shot Learning.</h4>
