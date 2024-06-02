@@ -5,6 +5,7 @@ Disallow: /assets/css/
 Disallow: /assets/fonts/
 Disallow: /assets/fontawesome/
 Disallow: /assets/js/
+Disallow: /assets/files/
 Disallow: /assets/mpii_files/
 Disallow: /images/
 Disallow: /google_scholar_crawler/
