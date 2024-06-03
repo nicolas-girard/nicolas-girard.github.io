@@ -6,7 +6,7 @@ layout: homepage
 
 <h2 style="margin: 60px 0px 10px;">Biography</h2>
 
-<div style="width: 700px;">
+<div style="width: 720px;">
 <p style="text-align: justify;">
 As a Ph.D. student in applied probability at 
 <a href="https://www.minesparis.psl.eu/">Mines Paris - PSL</a>, 
