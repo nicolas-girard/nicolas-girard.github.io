@@ -10,7 +10,7 @@ layout: homepage
 As a Ph.D. student in applied probability at 
 <a href="https://www.minesparis.psl.eu/">Mines Paris - PSL</a>, 
 I work on 
-<a href=".assets/files/physics-informed_statistical_modeling_earthquakes_.pdf">
+<a href="https://nicolas-girard.github.io/assets/files/physics-informed_statistical_modeling_earthquakes_.pdf">
 physics-informed statistical modeling of earthquakes</a> within their 
 <a href="https://www.geosciences.minesparis.psl.eu/en/home/">Geosciences Center</a>. 
 I am supervised by 
