@@ -18,7 +18,7 @@ I am supervised by
 <a href="https://cv.hal.science/pierre-dublanchet">Pierre Dublanchet</a> 
 (Geophysics Team) and 
 <a href="https://mike-pereira.github.io/">Mike Pereira</a> 
-(Geostatistics Team). I also assist the lecturers of the probability course in the 3rd year of bachelor's degree at Mines Paris - PSL.
+(Geostatistics Team). I also assist the probability course in the 3rd year of bachelor's degree at Mines Paris - PSL.
 </p>
 </div>
 <!--
