@@ -1,12 +1,3 @@
-<style>
-  #teaching h1 {
-    font: 16.0px/1.5 Crimson Pro, serif;
-    color: #595959;
-    font-weight: 400;
-    margin: 0; /* Supprimer la marge par défaut de h1 */
-  }
-</style>
-
 <h1 id="teaching"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Teaching</h2>
