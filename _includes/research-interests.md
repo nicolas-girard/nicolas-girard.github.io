@@ -2,7 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Research Interests</h2>
 
-<ul style="padding-right: 100px;">
+<ul style="padding-left: 100px;">
   <li>
     <strong>Statistical Seismology:</strong> Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
   </li>
