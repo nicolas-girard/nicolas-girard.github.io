@@ -2,6 +2,7 @@
 
 <h2 style="margin: 60px 0px 10px;">Research Interests</h2>
 
+<div style="width: 500px;">
 <ul>
   <li>
     <strong>Statistical Seismology:</strong> Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
@@ -13,4 +14,4 @@
     <strong>Geophysics:</strong> Rock Mechanics, Fault Mechanics, Earthquake Mechanics
   </li>
 </ul>
-
+</div>
