@@ -2,5 +2,6 @@
 
 <h2 style="margin: 60px 0px 10px;">Research Interests</h2>
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Statistical Seismology:** Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
+- **Spatial Statistics:** Point Processes, Stochastic Partial Differential Equations, Extreme Value Theory
+- **Geophysics:** Rock Mechanics, Fault Mechanics, Earthquake Mechanics
