@@ -5,7 +5,7 @@
 <div style="width: 1300px;">
 <ul>
   <li>
-    Assistant lecturer - Probability, 3rd year of bachelor’s degree (9h) - <a href="https://www.minesparis.psl.eu/">Mines Paris - PSL</a> - 2023
+    <strong>Assistant lecturer</strong> - Probability, 3rd year of bachelor’s degree (9h) - <a href="https://www.minesparis.psl.eu/">Mines Paris - PSL</a> - 2023
   </li>
 </ul>
 </div>
