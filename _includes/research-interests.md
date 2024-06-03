@@ -2,6 +2,8 @@
 
 <h2 style="margin: 60px 0px 10px;">Research Interests</h2>
 
+<ul style="margin:0 5 0px;">
 - **Statistical Seismology:** Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
 - **Spatial Statistics:** Point Processes, Stochastic Partial Differential Equations, Extreme Value Theory
 - **Geophysics:** Rock Mechanics, Fault Mechanics, Earthquake Mechanics
+</ul>
