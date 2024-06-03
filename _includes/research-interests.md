@@ -2,8 +2,15 @@
 
 <h2 style="margin: 60px 0px 10px;">Research Interests</h2>
 
-<div style="padding-right: 40px;">
-  - **Statistical Seismology:** Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing<br>
-  - **Spatial Statistics:** Point Processes, Stochastic Partial Differential Equations, Extreme Value Theory<br>
-  - **Geophysics:** Rock Mechanics, Fault Mechanics, Earthquake Mechanics
-</div>
+<ul>
+  <li>
+    Statistical Seismology: Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
+  </li>
+  <li>
+    Spatial Statistics: Point Processes, Stochastic Partial Differential Equations, Extreme Value Theory
+  </li>
+  <li>
+    Geophysics: Rock Mechanics, Fault Mechanics, Earthquake Mechanics
+  </li>
+</ul>
+
