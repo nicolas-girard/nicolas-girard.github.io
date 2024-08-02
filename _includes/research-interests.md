@@ -8,7 +8,7 @@
     <strong>Statistical Seismology:</strong> Seismicity Statistical Analysis, Earthquake Physics, Earthquake Forecasting & Testing
   </li>
   <li>
-    <strong>Spatial Statistics:</strong> Point Processes, Stochastic Partial Differential Equations, Extreme Value Theory
+    <strong>Spatial Statistics:</strong> Point Processes, Univariate Stable Distributions, Stochastic Partial Differential Equations
   </li>
   <li>
     <strong>Geophysics:</strong> Rock Mechanics, Fault Mechanics, Earthquake Mechanics
